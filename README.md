@@ -55,21 +55,6 @@ dio: ^4.0.4
 
 ## Screenshots
 
-## Home
-<img src='https://github.com/codelabs-live/bloc_example/blob/master/screenshots/home.png' height=500px/>
-
-## AllEmployees
-<img src='https://github.com/codelabs-live/bloc_example/blob/master/screenshots/all_employees.png' height=500px/>
-
-## Profile
-<img src='https://github.com/codelabs-live/bloc_example/blob/master/screenshots/employee_profile.png' height=500px/>
-
-## Error AllEmployees
-<img src='https://github.com/codelabs-live/bloc_example/blob/master/screenshots/error_all_employees.png' height=500px/>
-
-## Profile Error
-<img src='https://github.com/codelabs-live/bloc_example/blob/master/screenshots/error_employee_profile.png' height=500px/>
-
 ## Chat Screen
 <img src='https://github.com/codelabs-live/bloc_example/blob/master/screenshots/chat_screen.png' height=500px/>
 
